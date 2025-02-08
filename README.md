@@ -5,4 +5,4 @@ Screenshots and details of my Amazon Athena with S3 project
 
 This repository contains screenshots of my Amazon Athena with S3 project.
 
-📄 **Download Screenshots PDF**: [Amazon-Athena-S3.pdf](./Amazon-Athena-S3.pdf)
+📄 **Download Screenshots PDF**: [Amazon-Athena-S3.pdf](docs/Amazon-Athena-S3.pdf)
